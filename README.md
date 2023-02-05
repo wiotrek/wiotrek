@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![](https://dcbadge.vercel.app/api/shield/678206703275343883)
+<img src="https://discordapp.com/api/guilds/678206703275343883/widget.png?style=shield" alt="Discord Shield"/>
