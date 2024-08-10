@@ -3,8 +3,11 @@
 
 <p><em>trust me engineer ~ Frontend Developer</em></p>
 
-[![GitHub Wiotrek](https://img.shields.io/github/followers/wiotrek?label=follow&style=social)](https://github.com/wiotrek)
+<a href="https://discordapp.com/users/678206703275343883">
+  
+  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) <span algin="center">
 
+</a>
 
 ```javascript
 const wiotrek = {
@@ -12,13 +15,12 @@ const wiotrek = {
   age: 27,
   cities: [Wrzesnia, Poznan, Warszawa],
   code: [Javascript, Typescript, Python, C#],
-  tools: [
-    Angular,
-    GatsbyJs,
-    FastApi,
-    Node,
-    GraphQL,
-    Docker
-  ],
+  tools: [Angular, GatsbyJs, FastApi, Node, GraphQL, Docker],
   spacesOrTabs: "Tabs"
 }
+```
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiotrek&show_icons=true&theme=onedark)
+
+
