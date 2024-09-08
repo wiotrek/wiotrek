@@ -3,20 +3,18 @@
 
 <p><em>trust me i'm an engineer ~ Frontend Developer</em></p>
 
-<a href="https://discordapp.com/users/678206703275343883">
-  
-  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-</a>
+<p><a href="https://www.linkedin.com/in/wiotrek/"><img src="https://img.shields.io/badge/-@wiotrek-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/wiotrek/" alt="LinkedIn Badge"></a> <a href="https://discordapp.com/users/678206703275343883"><img src="https://img.shields.io/badge/-@wiotrek-5661EA?style=flat-square&amp;logo=discord&amp;logoColor=white&amp;link=https://discordapp.com/users/678206703275343883" alt="Discord Badge"></a></p>
 
 ```javascript
 const wiotrek = {
   name: "Piotr Waszak",
   age: 27,
-  cities: [Wrzesnia, Poznan, Warszawa],
-  code: [Javascript, Typescript, Python, C#],
+  country: "PL",
+  cities: [Poznań, Warszawa],
+  code: [Javascript, Typescript, Python, Csharp],
   tools: [Angular, GatsbyJs, FastApi, Node, GraphQL, Docker],
-  spacesOrTabs: "Tabs"
+  linuxLover: true,
+  distributions: [Debian, OpenSUSE]
 }
 ```
 <br />
