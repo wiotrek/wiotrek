@@ -13,8 +13,7 @@ const wiotrek = {
   cities: [Poznań, Warszawa],
   code: [Javascript, Typescript, Python, Csharp],
   tools: [Angular, GatsbyJs, FastApi, Node, GraphQL, Docker],
-  linuxLover: true,
-  distributions: [Debian, OpenSUSE]
+  favDistributions: [Debian, OpenSUSE]
 }
 ```
 <br />
