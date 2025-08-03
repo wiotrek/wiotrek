@@ -8,7 +8,7 @@
 ```javascript
 const wiotrek = {
   name: "Piotr Waszak",
-  age: 27,
+  age: 28,
   country: "PL",
   cities: [Poznań, Warszawa],
   code: [Javascript, Typescript, Python, Csharp],
