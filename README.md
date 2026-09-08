@@ -12,7 +12,7 @@ const wiotrek = {
   name: "Piotr Waszak",
   age: 29,
   country: "PL",
-  cities: [Poznań, Warszawa],
+  cities: [Warszawa],
   code: [Javascript, Typescript, Python, Csharp, Psql],
   frameworks: [Angular, GatsbyJS, FastAPI, Flask],
   tools: [Node, GraphQL, RestApi, Docker, K3s, Ansible, Selenium],
